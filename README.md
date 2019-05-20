@@ -1,1 +1,1 @@
-# WT-serverfile
+# WinTricks required server file

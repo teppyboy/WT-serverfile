@@ -1,0 +1,20 @@
+b1 - 20190519
+128.0.0.1
+b1 - 20190519
+128.0.0.1
+b1 - 20190519
+128.0.0.1
+b1 - 20190520
+128.0.0.1
+
+# About this file.
+__File for WinTricks to check version.__
+- Line 1 is the latest WinTricks .NET Framework version.
+- Line 2 is the latest WinTricks .NET Framework version download link.
+- Line 3 is the latest WinTricks .NET Core version.
+- Line 4 is the latest WinTricks .NET Core version download link.
+- Line 5 is the latest WinTricks C++ CLI version (very unstable).
+- Line 6 is the latest WinTricks C++ CLI version download link.
+- Line 7 is the latest WinTricks Updater.
+- Line 8 is the latest WinTricks Updater download link (rarely updated)
+Will open source soon when WT is better.
